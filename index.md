@@ -1,5 +1,5 @@
 ---
-title: ÇEn ÇFin.....
+title:  En Fin.....
 # Hola
 ## Adiós
 ---
